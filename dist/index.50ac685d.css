@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  vertical-align: top;
+  border: none;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.clearfix:before, .clearfix:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+body {
+  color: #333;
+  min-width: 1226px;
+  font: 14px / 1.5 Helvetica Neue, Helvetica, Arial, Microsoft Yahei, Hiragino Sans GB, Heiti SC, WenQuanYi Micro Hei, sans-serif;
+}
+
+.w {
+  width: 1226px;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=index.50ac685d.css.map */
